@@ -24,3 +24,7 @@ Minimize false positives to reduce unnecessary alerts.
 Ensure the model is robust and scalable for real-world applications.
 ## Results
 The project successfully delivered a fraud detection model with high accuracy and reliability. The use of XGBoost ensured the model's efficiency in handling large datasets while providing interpretable results.
+## Future Scope
+- Integration with live transaction systems for real-time fraud detection.
+- Exploring deep learning models for improved performance.
+- Enhancing feature engineering for better fraud detection rates.
